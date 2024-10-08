@@ -51,3 +51,13 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 </div>
+
+---
+
+<div align="center">
+
+### GitHub Activity Graph 📈
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=leeseulhui&theme=radical)
+
+</div>
