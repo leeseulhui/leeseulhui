@@ -54,10 +54,3 @@
 
 ---
 
-<div align="center">
-
-### GitHub Activity Graph 📈
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=leeseulhui&theme=radical)
-
-</div>
