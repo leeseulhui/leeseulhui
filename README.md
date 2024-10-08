@@ -1,8 +1,10 @@
-## Hi there 👋
+
 ![SeulHui Github](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SeulHui%20Github!&fontSize=70)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseulhui&show_icons=true&theme=radical)
+![Baekjoon Tier](https://img.shields.io/badge/Baekjoon-<Tier>-green?style=for-the-badge&logo=baekjoon&logoColor=white)
+![SeulHui's Baekjoon stats](https://mazassumnida.wtf/api/v2/generate_badge?boj=leeseulhui)
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
