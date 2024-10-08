@@ -1,5 +1,6 @@
 ## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SeulHui Github!&fontSize=70" />
+![SeulHui Github](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SeulHui%20Github!&fontSize=70)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseulhui&show_icons=true&theme=radical)
 
