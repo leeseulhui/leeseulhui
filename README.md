@@ -1,10 +1,7 @@
 
 ![SeulHui Github](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SeulHui%20Github!&fontSize=70)
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseulhui&show_icons=true&theme=radical)
-![Baekjoon Tier](https://img.shields.io/badge/Baekjoon-<Tier>-green?style=for-the-badge&logo=baekjoon&logoColor=white)
-![SeulHui's Baekjoon stats](https://mazassumnida.wtf/api/v2/generate_badge?boj=dltmfgml12)
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,3 +18,8 @@
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+### Baekjoon Stats
+![SeulHui's Baekjoon stats](https://mazassumnida.wtf/api/v2/generate_badge?boj=dltmfgml12)
+
+![Baekjoon Tier](https://img.shields.io/badge/Baekjoon-Gold_5-green?style=for-the-badge&logo=baekjoon&logoColor=white)
