@@ -1,11 +1,11 @@
 
-![SeulHui Github](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SeulHui%20Github!&fontSize=70)
+![SeulHui Github](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=SeulhuiGithub!&fontAlign=50&fontSize=30&height=100)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseulhui&show_icons=true&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=leeseulhui&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![SeulHui's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leeseulhui&theme=react-dark)
-![SeulHui Github](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Welcome!&fontAlign=50&fontSize=30&height=100)
+
 
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
