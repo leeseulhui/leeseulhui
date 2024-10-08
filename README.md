@@ -53,4 +53,7 @@
 </div>
 
 ---
+
+<div align="3d">
 ![](./profile-3d-contrib/profile-green-animate.svg)
+</div>
